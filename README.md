@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34146659/README.md)
+[README-2.md](https://github.com/user-attachments/files/34148044/README-2.md)
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,100:8B5CF6&height=190&section=header&text=Jo%C3%A3o%20Pedro%20Abreu&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=59&descSize=18" alt="João Pedro Abreu — Full Stack em formação" />
@@ -25,18 +25,18 @@ Sou **João Pedro**, estudante de **Análise e Desenvolvimento de Sistemas** e d
 
 **Front-end**
 
-![HTML5](https://img.shields.io/badge/HTML5-C4B5FD?style=for-the-badge&logo=html5&logoColor=18181B)
-![CSS3](https://img.shields.io/badge/CSS3-C4B5FD?style=for-the-badge&logo=css&logoColor=18181B)
-![JavaScript](https://img.shields.io/badge/JavaScript-C4B5FD?style=for-the-badge&logo=javascript&logoColor=18181B)
-![React](https://img.shields.io/badge/React-C4B5FD?style=for-the-badge&logo=react&logoColor=18181B)
-![Next.js](https://img.shields.io/badge/Next.js-C4B5FD?style=for-the-badge&logo=nextdotjs&logoColor=18181B)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Back-end e banco de dados**
 
-![Java](https://img.shields.io/badge/Java-C4B5FD?style=for-the-badge&logo=openjdk&logoColor=18181B)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-C4B5FD?style=for-the-badge&logo=springboot&logoColor=18181B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C4B5FD?style=for-the-badge&logo=postgresql&logoColor=18181B)
-![MySQL](https://img.shields.io/badge/MySQL-C4B5FD?style=for-the-badge&logo=mysql&logoColor=18181B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Ferramentas**
 
