@@ -51,7 +51,7 @@ Sou **João Pedro**, estudante de **Análise e Desenvolvimento de Sistemas** e d
 | **[Orçamento Pessoal](https://github.com/joaopedro-25/orcamento-pessoal)** | Projeto autoral desenvolvido individualmente para gerenciamento de receitas, despesas mensais e metas financeiras. | Full Stack · Java · Spring Boot · React · PostgreSQL |
 | **[SP Spaces](https://github.com/pedrolcsdev/react-spspaces)** | Projeto em equipe de uma plataforma para aluguel de salas e espaços comerciais. | Interfaces web · React · colaboração |
 | **[Entregáveis API Backend](https://github.com/joaopedro-25/entregaveis_api_backend)** | Repositório de entregas e atividades de desenvolvimento back-end. | Java · lógica · orientação a objetos |
-| **[Lista de Compras — Rocketseat](https://github.com/joaopedro-25/Lista-de-Compras-Rocketseat)** | Projeto de lista de compras desenvolvido como prática de desenvolvimento web. | Front-end · interface web |
+| **[Rooted Seeds](https://github.com/MarinoDutra/Rooted-Seeds)** | Projeto colaborativo vinculado à Seeds Tecnologia. | Desenvolvimento de software · trabalho em equipe |
 | **[Banco de Dados](https://github.com/joaopedro-25/aula_banco_de_dados)** | Atividades acadêmicas para praticar conceitos de bancos de dados. | SQL · bancos relacionais |
 
 <p align="center">
