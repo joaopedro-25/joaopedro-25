@@ -66,7 +66,7 @@ Sou **João Pedro**, estudante de **Análise e Desenvolvimento de Sistemas** e d
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopedro-25&amp;show_icons=true&amp;include_all_commits=true&amp;bg_color=161B22&amp;title_color=C4B5FD&amp;text_color=E6EDF3&amp;icon_color=C4B5FD&amp;ring_color=8B5CF6&amp;border_color=30363D&amp;locale=pt-br&amp;custom_title=Estat%C3%ADsticas%20do%20GitHub" alt="Estatísticas do GitHub de João Pedro Abreu com indicador circular de classificação" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedro-25&amp;show_icons=true&amp;include_all_commits=false&amp;bg_color=161B22&amp;title_color=C4B5FD&amp;text_color=E6EDF3&amp;icon_color=C4B5FD&amp;ring_color=8B5CF6&amp;border_color=30363D&amp;locale=pt-br&amp;custom_title=Estat%C3%ADsticas%20do%20GitHub" alt="Estatísticas do GitHub de João Pedro Abreu com indicador circular de classificação" />
 </p>
 
 ## Em evolução
