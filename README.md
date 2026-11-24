@@ -21,6 +21,11 @@ Sou **João Pedro**, estudante de **Análise e Desenvolvimento de Sistemas** e d
 - Participação no **SP Spaces**, plataforma de aluguel de espaços comerciais do Grupo São Paulo.
 - Atuação na **Seeds Tecnologia**, conectando aprendizado, trabalho em equipe e projetos práticos.
 
+## Redes sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoabreudev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaop_abreudev/)
+
 ## Tecnologias
 
 **Front-end**
@@ -56,6 +61,12 @@ Sou **João Pedro**, estudante de **Análise e Desenvolvimento de Sistemas** e d
 
 <p align="center">
   <a href="https://github.com/joaopedro-25?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR_OUTROS_PROJETOS-C4B5FD?style=for-the-badge&logo=github&logoColor=18181B" alt="Explorar outros projetos" /></a>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedro-25&amp;show_icons=true&amp;include_all_commits=true&amp;bg_color=161B22&amp;title_color=C4B5FD&amp;text_color=E6EDF3&amp;icon_color=C4B5FD&amp;ring_color=8B5CF6&amp;border_color=30363D&amp;locale=pt-br&amp;custom_title=Estat%C3%ADsticas%20do%20GitHub" alt="Estatísticas do GitHub de João Pedro Abreu com indicador circular de classificação" />
 </p>
 
 ## Em evolução
